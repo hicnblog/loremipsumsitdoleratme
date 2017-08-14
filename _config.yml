@@ -1,6 +1,6 @@
 ---
 title: Lorem Ipsum Sit Doler At Me
-# timezone: UTC
+timezone: UTC
 collections:
   posts:
     title: Posts
