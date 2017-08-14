@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Another sample
-tags: [jekyll, syntax]
+date: 2013-08-12 00:00:00 Z
 categories:
 - blog
+tags:
+- jekyll
+- syntax
+layout: post
 ---
 
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
